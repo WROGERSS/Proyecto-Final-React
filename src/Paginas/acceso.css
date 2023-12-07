@@ -1,0 +1,64 @@
+
+h1 {
+    text-align: center;
+    color:#fff
+}
+
+label {
+color: #0a0a0a; 
+font-size: 1.2em;
+display: block;
+}
+
+.App {
+    /*display: flex;*/
+    align-items: center;
+    
+}
+
+div.contenedorlogin {
+    
+    margin: 8px;
+    padding: 10px;
+    background-color: #ebebeb;
+    border-radius: 10px;
+    align-items: center;
+
+  }
+
+hr {
+    border: 1px solid #e95678;
+  }
+
+h2 {
+  margin: 4px;
+  font-size: 20px;
+}
+
+
+input,
+button {
+  color: #1c1e26;
+  padding: 10px;
+  width: 250px;
+  display: block;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border: 1px solid #ebebeb;
+  border-radius: 4px;
+  margin: 10px auto;
+}
+
+button {
+  color: #ffffff;
+  padding: 10px;
+  background-color: #df5273;
+  border: 1px solid #df3173;
+}
+
+
+h5 {
+  align-items: center;
+  color: #0a0a0a;
+  
+}

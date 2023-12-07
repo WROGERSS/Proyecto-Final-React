@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+}
+
+nav a {
+text-decoration: none;
+padding-right: 20px;
+color:azure
+
+}
+
+nav{
+    background-color: rgb(68, 60, 141)21, 0.32
+}
+
+
+body {
+    font-family: 'Oxygen', sans-serif;
+    color:rgb(255, 255, 255);   
+    background: rgb(68, 60, 141);
+   
+  }
+  
+  /*#root {
+    margin: 0;
+    padding: 0;
+    min-height:200vh;
+    display: flex;
+    flex-direction: column;
+  }*/
+  
